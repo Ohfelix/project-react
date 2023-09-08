@@ -15,15 +15,7 @@ const navLinks = [
   },
   {
     path: '/services',
-    display: "Services"
-  },
-  {
-    path: '/login',
-    display: "Login"
-  },
-  {
-    path: '/singup',
-    display: "Sing Up"
+    display: "Projetos"
   },
 ]
 

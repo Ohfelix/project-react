@@ -111,7 +111,7 @@ const Home = () => {
           </div>
         </div>
       </section>
-      <section className='bg-gray-900'>
+      <section className=''>
         <Contact />
       </section>
 
