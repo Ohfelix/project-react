@@ -17,6 +17,10 @@ const navLinks = [
     path: '/services',
     display: "Projetos"
   },
+  {
+    path: '/manager',
+    display: "Clientes"
+  },
 ]
 
 const Header = () => {
